@@ -1,6 +1,6 @@
 # Intern Airflow
 
-This repository is how you add DAGs to the **intern-airflow** instance. You do not log in to the server. Push to `main` on GitHub. The server pulls this repo and loads every Python file under `dags/`.
+This repository is how you add DAGs to the **airflow** instance. You do not log in to the server. Push to `main` on GitHub. The server pulls this repo and loads every Python file under `dags/`.
 
 This instance is separate from the production Airflow. The page title in the UI is `intern-airflow`. Ask the admin for the UI address.
 
